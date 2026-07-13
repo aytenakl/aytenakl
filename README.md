@@ -91,17 +91,6 @@ https://aytenakl.github.io/Due_Two/
 
 </p>
 
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=aytenakl&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 📈 Activity Graph
 
