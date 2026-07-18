@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayten Ehab Akl</h1>
 
-<h3 align="center">
-Computer Science & Artificial Intelligence Student
-</h3>
-
-<p align="center">
-Aspiring AI Engineer • Embedded Systems Developer • Web Developer
-</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3BB9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Real+World+Projects+🚀;Artificial<h1 align="center">Hi 👋, I'm Ayten Ehab Akl</h1>
