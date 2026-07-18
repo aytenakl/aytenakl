@@ -63,13 +63,6 @@ Aspiring AI Engineer • Embedded Systems Developer • Web Developer
 
 </p>
 
-# 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,arduino,git,github,vscode"/>
-
-</p>
 
 
 <p align="center">
@@ -82,7 +75,7 @@ Aspiring AI Engineer • Embedded Systems Developer • Web Developer
 <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
----
+
 
 # 🌟 Featured Projects
 
