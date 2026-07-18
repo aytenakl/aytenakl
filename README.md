@@ -12,6 +12,7 @@ Aspiring AI Engineer • Embedded Systems Developer • Web Developer
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3BB9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Real+World+Projects+🚀;Artificial+Intelligence;Embedded+Systems;Software+Engineering;Web+Development;Co-Founder+of+Due+Two" />
 </p>
 
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ayten-akl-3a1b58377/">
@@ -26,7 +27,10 @@ Aspiring AI Engineer • Embedded Systems Developer • Web Developer
 <img src="https://img.shields.io/badge/Due%20Two-5B5FEF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=aytenakl&label=Profile%20Views&color=4C6EF5&style=for-the-badge"/>
+
 </p>
+
 
 ---
 
@@ -43,13 +47,15 @@ Aspiring AI Engineer • Embedded Systems Developer • Web Developer
 - 💻 Software Engineering
 - 🌐 Web Development
 
-🚀 Co-Founder of **Due Two**, a technology startup focused on building innovative solutions through AI, Robotics, Embedded Systems, and Software Development.
+🚀 Co-Founder of **Due Two**, a technology startup focused on Artificial Intelligence, Robotics, Embedded Systems, Software Engineering, and Web Development.
 
-✨ I enjoy transforming ideas into real-world projects and continuously improving my skills through hands-on development.
+✨ I enjoy turning ideas into real-world projects and improving my skills through hands-on development.
+
 
 ---
 
 # 🛠️ Tech Stack
+
 
 <p align="center">
 
@@ -57,21 +63,27 @@ Aspiring AI Engineer • Embedded Systems Developer • Web Developer
 
 </p>
 
+
 ---
 
 # 🌟 Featured Projects
+
 
 ## 🌐 Triple A Events Website
 
 Professional business website developed for **Triple A Events & Exhibition Management**.
 
-Built with:
+Built using:
+
 HTML5 • CSS3 • JavaScript
 
 🔗 Live Demo:
+
 https://aytenakl.github.io/Triple-A-Events-Website/
 
+
 ---
+
 
 ## 🚀 Due Two
 
@@ -82,25 +94,33 @@ Technology startup focused on:
 💻 Software Engineering  
 🌐 Web Development  
 
+
 🔗 Live Demo:
+
 https://aytenakl.github.io/Due_Two/
 
+
 ---
+
 
 ## 🤖 Arduino Bluetooth Controlled Car
 
 A Bluetooth-controlled robot car using Arduino Uno.
 
+
 ---
+
 
 ## 📡 Embedded Systems Projects
 
 - Ultrasonic Distance Sensor
 - Line Sensor Project
 
+
 ---
 
 # 📊 GitHub Stats
+
 
 <p align="center">
 
@@ -110,29 +130,58 @@ A Bluetooth-controlled robot car using Arduino Uno.
 
 </p>
 
+
 ---
 
-# 🎯 2026 Goals
+# 📈 Activity Graph
 
-✅ Build AI Projects  
-✅ Improve Python & Data Structures Skills  
-🟡 Explore Machine Learning  
-🟡 Learn Computer Vision  
-🟡 Contribute to Open Source  
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aytenakl&theme=tokyo-night"/>
+
+</p>
+
+
+---
+
+# 🎯 2026 Roadmap
+
+
+✅ Strengthen Python Skills
+
+✅ Build AI Projects
+
+🟡 Improve Data Structures & Algorithms
+
+🟡 Build Machine Learning Projects
+
+🟡 Explore Computer Vision
+
+🟡 Contribute to Open Source
+
 🚀 Grow Due Two
+
 
 ---
 
 # 🌍 Connect With Me
 
-💼 LinkedIn:
+
+💼 LinkedIn
+
 https://www.linkedin.com/in/ayten-akl-3a1b58377/
 
-📧 Email:
+
+📧 Email
+
 aytenakl912@gmail.com
 
-🌐 Due Two:
+
+🌐 Due Two
+
 https://aytenakl.github.io/Due_Two/
+
 
 ---
 
