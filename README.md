@@ -38,8 +38,6 @@ Aspiring AI Engineer • Embedded Systems Developer • Web Developer
 
 🎓 Second-Year Computer Science & Artificial Intelligence Student at **Pharos University**
 
-📍 Alexandria, Egypt 🇪🇬
-
 💙 Passionate about:
 
 - 🤖 Artificial Intelligence
@@ -47,12 +45,11 @@ Aspiring AI Engineer • Embedded Systems Developer • Web Developer
 - 💻 Software Engineering
 - 🌐 Web Development
 
- 🚀 Co-Founder & Developer at Due Two , a technology startup focused on Artificial Intelligence, Robotics, Embedded Systems, Software Engineering, and Web Development.
-
+🚀 Co-Founder & Developer at **Due Two**, a technology startup focused on Artificial Intelligence, Robotics, Embedded Systems, Software Engineering, and Web Development.
 ✨ I enjoy turning ideas into real-world projects and improving my skills through hands-on development.
 
 
----
+
 
 # 🛠️ Tech Stack
 
@@ -91,7 +88,6 @@ HTML • CSS • JavaScript
 https://aytenakl.github.io/Triple-A-Events-Website/
 
 
----
 
 
 ## 🚀 Due Two
@@ -109,15 +105,11 @@ Technology startup focused on:
 https://aytenakl.github.io/Due_Two/
 
 
----
-
 
 ## 🤖 Arduino Bluetooth Controlled Car
 
 A Bluetooth-controlled robot car using Arduino Uno.
 
-
----
 
 
 ## 📡 Embedded Systems Projects
@@ -126,7 +118,6 @@ A Bluetooth-controlled robot car using Arduino Uno.
 - Line Sensor Project
 
 
----
 
 # 📊 GitHub Stats
 
@@ -140,7 +131,6 @@ A Bluetooth-controlled robot car using Arduino Uno.
 </p>
 
 
----
 
 # 📈 Activity Graph
 
@@ -152,7 +142,6 @@ A Bluetooth-controlled robot car using Arduino Uno.
 </p>
 
 
----
 
 # 🎯 2026 Roadmap
 
@@ -172,7 +161,7 @@ A Bluetooth-controlled robot car using Arduino Uno.
 🚀 Grow Due Two
 
 
----
+
 
 # 🌍 Connect With Me
 
@@ -191,8 +180,6 @@ aytenakl912@gmail.com
 
 https://aytenakl.github.io/Due_Two/
 
-
----
 
 <p align="center">
 
