@@ -72,7 +72,6 @@ Aspiring AI Engineer • Embedded Systems Developer • Web Developer
 <img src="https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Web%20Development-1F6FEB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Problem%20Solving-2EA44F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
 
