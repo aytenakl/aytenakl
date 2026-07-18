@@ -58,7 +58,13 @@ Aspiring AI Engineer • Embedded Systems Developer • Web Developer
 - 🤖 Exploring Robotics & Embedded Systems
 - 📚 Strengthening Data Structures & Algorithms
 - 🚀 Developing Real-World Technology Solutions
+## 🎯 Open to Opportunities
 
+- 🤖 AI & Machine Learning Internships
+- 💻 Software Development Internships
+- 🌍 Open Source Contributions
+- 🏆 Hackathons & Tech Events
+- 🤝 Collaboration on AI, Embedded Systems & Web Development Projects
 
 ---
 
