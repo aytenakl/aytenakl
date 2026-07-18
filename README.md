@@ -47,7 +47,7 @@ Aspiring AI Engineer • Embedded Systems Developer • Web Developer
 - 💻 Software Engineering
 - 🌐 Web Development
 
-🚀 Co-Founder of **Due Two**, a technology startup focused on Artificial Intelligence, Robotics, Embedded Systems, Software Engineering, and Web Development.
+🚀 🚀 Co-Founder & Developer at Due Two , a technology startup focused on Artificial Intelligence, Robotics, Embedded Systems, Software Engineering, and Web Development.
 
 ✨ I enjoy turning ideas into real-world projects and improving my skills through hands-on development.
 
