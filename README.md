@@ -70,9 +70,8 @@ Aspiring AI Engineer • Embedded Systems Developer • Web Developer
 
 
 ## 🌐 Triple A Events Website
-
-Professional business website developed for **Triple A Events & Exhibition Management**.
-
+Business website developed for Triple A Events & Exhibition Management.
+A modern responsive website designed to represent the brand digitally.
 Built using:
 
 HTML • CSS • JavaScript
