@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1 align="center">Hi 👋, I'm Ayten Ehab Akl</h1>
 
 <h3 align="center">
@@ -31,6 +33,8 @@ Aspiring AI Engineer • Embedded Systems Developer • Web Developer
 
 </p>
 
+</div>
+
 
 ---
 
@@ -47,9 +51,20 @@ Aspiring AI Engineer • Embedded Systems Developer • Web Developer
 - 💻 Software Engineering
 - 🌐 Web Development
 
- 🚀 Co-Founder & Developer at Due Two , a technology startup focused on Artificial Intelligence, Robotics, Embedded Systems, Software Engineering, and Web Development.
+🚀 Co-Founder & Developer at **Due Two**, a technology startup focused on Artificial Intelligence, Robotics, Embedded Systems, Software Engineering, and Web Development.
 
 ✨ I enjoy turning ideas into real-world projects and improving my skills through hands-on development.
+
+
+---
+
+# 🔥 Current Focus
+
+- 🐍 Improving Python & AI Development Skills
+- 🧠 Building Machine Learning Projects
+- 🤖 Exploring Robotics & Embedded Systems
+- 📚 Strengthening Data Structures & Algorithms
+- 🚀 Developing Real-World Technology Solutions
 
 
 ---
@@ -64,14 +79,32 @@ Aspiring AI Engineer • Embedded Systems Developer • Web Developer
 </p>
 
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-006699?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Development-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-8A2BE2?style=for-the-badge"/>
+
+</p>
+
+
 ---
 
 # 🌟 Featured Projects
 
 
 ## 🌐 Triple A Events Website
-Business website developed for Triple A Events & Exhibition Management.
-A modern responsive website designed to represent the brand digitally.
+
+Professional business website developed for **Triple A Events & Exhibition Management**.
+
+Features:
+- Responsive Design
+- Modern UI
+- Business Website Development
+
 Built using:
 
 HTML • CSS • JavaScript
@@ -79,6 +112,22 @@ HTML • CSS • JavaScript
 🔗 Live Demo:
 
 https://aytenakl.github.io/Triple-A-Events-Website/
+
+
+---
+
+
+## 🥊 JOPA Premium Mouth Guards Website
+
+A modern responsive website developed for **JOPA**, with clean UI design and smooth user experience.
+
+Built using:
+
+HTML • CSS • JavaScript
+
+🔗 Live Demo:
+
+https://jopadental.com/
 
 
 ---
@@ -106,6 +155,11 @@ https://aytenakl.github.io/Due_Two/
 
 A Bluetooth-controlled robot car using Arduino Uno.
 
+Concepts:
+- Embedded Programming
+- Hardware Control
+- Robot Automation
+
 
 ---
 
@@ -114,6 +168,27 @@ A Bluetooth-controlled robot car using Arduino Uno.
 
 - Ultrasonic Distance Sensor
 - Line Sensor Project
+
+
+---
+
+# 🏆 Achievements & Learning
+
+- ✅ Arduino Programming Course (Excellent Grade)
+- ✅ Built Multiple Embedded Systems Projects
+- ✅ Developed Responsive Business Websites
+- ✅ Building AI & Robotics Skills Through Projects
+
+
+---
+
+# 📚 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Data Structures & Algorithms
+- Advanced Python
+- Computer Vision
 
 
 ---
@@ -167,22 +242,17 @@ A Bluetooth-controlled robot car using Arduino Uno.
 # 🌍 Connect With Me
 
 
-💼 LinkedIn
-
+💼 LinkedIn  
 https://www.linkedin.com/in/ayten-akl-3a1b58377/
 
 
-📧 Email
-
+📧 Email  
 aytenakl912@gmail.com
 
 
-🌐 Due Two
-
+🌐 Due Two  
 https://aytenakl.github.io/Due_Two/
 
-
----
 
 <p align="center">
 
