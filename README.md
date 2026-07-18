@@ -75,7 +75,7 @@ Professional business website developed for **Triple A Events & Exhibition Manag
 
 Built using:
 
-HTML5 • CSS3 • JavaScript
+HTML • CSS • JavaScript
 
 🔗 Live Demo:
 
