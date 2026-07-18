@@ -5,11 +5,11 @@ Computer Science & Artificial Intelligence Student
 </h3>
 
 <p align="center">
-Future AI Engineer • Embedded Systems Developer • Web Developer
+Aspiring AI Engineer • Embedded Systems Developer • Web Developer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3BB9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Real+Projects+🚀;Artificial+Intelligence;Embedded+Systems;Software+Engineering;Web+Development;Founder+of+Due+Two" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3BB9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Real+World+Projects+🚀;Artificial+Intelligence;Embedded+Systems;Software+Engineering;Web+Development;Co-Founder+of+Due+Two" />
 </p>
 
 <p align="center">
@@ -26,8 +26,6 @@ Future AI Engineer • Embedded Systems Developer • Web Developer
 <img src="https://img.shields.io/badge/Due%20Two-5B5FEF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=aytenakl&label=Visitors&color=4C6EF5&style=for-the-badge"/>
-
 </p>
 
 ---
@@ -41,11 +39,13 @@ Future AI Engineer • Embedded Systems Developer • Web Developer
 💙 Passionate about:
 
 - 🤖 Artificial Intelligence
-- ⚙️ Embedded Systems
+- ⚙️ Embedded Systems & Robotics
 - 💻 Software Engineering
 - 🌐 Web Development
 
-✨ I enjoy turning ideas into real-world projects and continuously improving my skills through hands-on learning.
+🚀 Co-Founder of **Due Two**, a technology startup focused on building innovative solutions through AI, Robotics, Embedded Systems, and Software Development.
+
+✨ I enjoy transforming ideas into real-world projects and continuously improving my skills through hands-on development.
 
 ---
 
@@ -61,23 +61,42 @@ Future AI Engineer • Embedded Systems Developer • Web Developer
 
 # 🌟 Featured Projects
 
-### 🌐 Due Two
+## 🌐 Triple A Events Website
 
-Technology startup focused on Artificial Intelligence, Robotics, Embedded Systems, Software Engineering, and Web Development.
+Professional business website developed for **Triple A Events & Exhibition Management**.
 
-🔗 **Live Demo**
+Built with:
+HTML5 • CSS3 • JavaScript
 
+🔗 Live Demo:
+https://aytenakl.github.io/Triple-A-Events-Website/
+
+---
+
+## 🚀 Due Two
+
+Technology startup focused on:
+
+🤖 Artificial Intelligence  
+⚙️ Robotics & Embedded Systems  
+💻 Software Engineering  
+🌐 Web Development  
+
+🔗 Live Demo:
 https://aytenakl.github.io/Due_Two/
 
 ---
 
-🚗 Arduino Bluetooth Controlled Car
+## 🤖 Arduino Bluetooth Controlled Car
 
-📏 Ultrasonic Distance Sensor
+A Bluetooth-controlled robot car using Arduino Uno.
 
-💡 LED Brightness Control
+---
 
-🎛️ Potentiometer LED Control
+## 📡 Embedded Systems Projects
+
+- Ultrasonic Distance Sensor
+- Line Sensor Project
 
 ---
 
@@ -91,48 +110,35 @@ https://aytenakl.github.io/Due_Two/
 
 </p>
 
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aytenakl&theme=tokyo-night"/>
-
-</p>
-
 ---
 
-# 🎯 2026 Roadmap
+# 🎯 2026 Goals
 
-✅ Strengthen Python Skills
-
-✅ Build AI Projects
-
-🟡 Learn Machine Learning
-
-🟡 Learn Computer Vision
-
-🟡 Contribute to Open Source
-
+✅ Build AI Projects  
+✅ Improve Python & Data Structures Skills  
+🟡 Explore Machine Learning  
+🟡 Learn Computer Vision  
+🟡 Contribute to Open Source  
 🚀 Grow Due Two
 
 ---
 
 # 🌍 Connect With Me
 
-💼 LinkedIn
-
+💼 LinkedIn:
 https://www.linkedin.com/in/ayten-akl-3a1b58377/
 
-📧 aytenakl912@gmail.com
+📧 Email:
+aytenakl912@gmail.com
 
-🌐 https://aytenakl.github.io/Due_Two/
+🌐 Due Two:
+https://aytenakl.github.io/Due_Two/
 
 ---
 
 <p align="center">
 
-### 💙 "Innovating Today. Empowering Tomorrow."
+💙 "Innovating Today. Empowering Tomorrow."
 
 ⭐ Thanks for visiting my profile!
 
