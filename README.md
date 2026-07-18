@@ -63,7 +63,25 @@ Aspiring AI Engineer • Embedded Systems Developer • Web Developer
 
 </p>
 
+# 🛠️ Tech Stack
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,arduino,git,github,vscode"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-006699?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Development-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-2EA44F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
 ---
 
 # 🌟 Featured Projects
