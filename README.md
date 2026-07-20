@@ -167,11 +167,7 @@ Concepts:
 - Ultrasonic Distance Sensor
 - Line Sensor Project
 
-
----
-
-Achievements
-
+## 🏆 Achievements
 🏆 Built 7+ Real Projects
 
 🏆 Co-Founder of Due Two
