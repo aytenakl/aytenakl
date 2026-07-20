@@ -7,8 +7,7 @@ Computer Science & Artificial Intelligence Student
 </h3>
 
 <p align="center">
-Aspiring AI Engineer • Embedded Systems Developer • Web Developer
-</p>
+AI Engineer in Progress | Embedded Systems Developer | Co-Founder @ Due Two</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3BB9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Real+World+Projects+🚀;Artificial+Intelligence;Embedded+Systems;Software+Engineering;Web+Development;Co-Founder+of+Due+Two" />
@@ -171,15 +170,19 @@ Concepts:
 
 ---
 
-# 🏆 Achievements & Learning
+Achievements
 
-- ✅ Arduino Programming Course (Excellent Grade)
-- ✅ Built Multiple Embedded Systems Projects
-- ✅ Developed Responsive Business Websites
-- ✅ Building AI & Robotics Skills Through Projects
+🏆 Built 7+ Real Projects
 
+🏆 Co-Founder of Due Two
 
----
+🏆 Developed Business Websites
+
+🏆 Embedded Systems Projects
+
+🏆 Arduino Programming (Excellent)
+
+🏆 Open Source Projects on GitHub---
 
 # 📚 Currently Learning
 
