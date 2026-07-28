@@ -92,8 +92,7 @@ AI Engineer in Progress | Embedded Systems Developer | Software Developer | Co-F
 ---
 
 # 🌟 Featured Projects
-
-🤖 Automated Pick-and-Place Robotic Arm
+**🤖 Automated Pick-and-Place Robotic Arm**
 
 An automated robotic arm designed to pick up an object from one position and transfer it to another position automatically.
 
@@ -149,28 +148,6 @@ HTML • CSS • JavaScript
 
 https://jopadental.com/
 
-🤖 Automated Pick-and-Place Robotic Arm
-
-An automated robotic arm designed to pick up an object from one position and transfer it to another position automatically.
-
-The project demonstrates hands-on experience in:
-
-* Robotics & Automation
-* Embedded Systems
-* Stepper Motor Control
-* Arduino Programming
-* C++
-* Hardware Control
-
-Built using:
-
-C++ • Arduino • Stepper Motors • Embedded Systems
-
-🔗 GitHub Repository:
-
-https://github.com/aytenakl/Automated-Pick-and-Place-Robotic-Arm
-
----
 
 
 ## 🚀 Due Two
