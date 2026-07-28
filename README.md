@@ -7,7 +7,7 @@ Computer Science & Artificial Intelligence Student
 </h3>
 
 <p align="center">
-AI Engineer in Progress | Embedded Systems Developer | Co-Founder @ Due Two</p>
+AI Engineer in Progress | Embedded Systems Developer | Software Developer | Co-Founder @ Due Two</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3BB9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Real+World+Projects+🚀;Artificial+Intelligence;Embedded+Systems;Software+Engineering;Web+Development;Co-Founder+of+Due+Two" />
@@ -93,6 +93,28 @@ AI Engineer in Progress | Embedded Systems Developer | Co-Founder @ Due Two</p>
 
 # 🌟 Featured Projects
 
+🤖 Automated Pick-and-Place Robotic Arm
+
+An automated robotic arm designed to pick up an object from one position and transfer it to another position automatically.
+
+The project demonstrates hands-on experience in:
+
+* Robotics & Automation
+* Embedded Systems
+* Stepper Motor Control
+* Arduino Programming
+* C++
+* Hardware Control
+
+Built using:
+
+C++ • Arduino • Stepper Motors • Embedded Systems
+
+🔗 GitHub Repository:
+
+https://github.com/aytenakl/Automated-Pick-and-Place-Robotic-Arm
+
+
 
 ## 🌐 Triple A Events Website
 
@@ -127,6 +149,26 @@ HTML • CSS • JavaScript
 
 https://jopadental.com/
 
+🤖 Automated Pick-and-Place Robotic Arm
+
+An automated robotic arm designed to pick up an object from one position and transfer it to another position automatically.
+
+The project demonstrates hands-on experience in:
+
+* Robotics & Automation
+* Embedded Systems
+* Stepper Motor Control
+* Arduino Programming
+* C++
+* Hardware Control
+
+Built using:
+
+C++ • Arduino • Stepper Motors • Embedded Systems
+
+🔗 GitHub Repository:
+
+https://github.com/aytenakl/Automated-Pick-and-Place-Robotic-Arm
 
 ---
 
@@ -168,15 +210,13 @@ Concepts:
 - Line Sensor Project
 
 ## 🏆 Achievements
-🏆 Built 7+ Real Projects
+🏆Built multiple hands-on projects in Embedded Systems, Robotics & Web Development
 
 🏆 Co-Founder of Due Two
 
 🏆 Developed Business Websites
 
-🏆 Embedded Systems Projects
-
-🏆 Arduino Programming (Excellent)
+🏆 Completed Arduino Programming Training with Excellent Grade
 
 🏆 Open Source Projects on GitHub---
 
