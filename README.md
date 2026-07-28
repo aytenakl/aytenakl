@@ -179,7 +179,7 @@ Concepts:
 - Robot Automation
 
 
----
+
 
 
 ## 📡 Embedded Systems Projects
@@ -196,7 +196,7 @@ Concepts:
 
 🏆 Completed Arduino Programming Training with Excellent Grade
 
-🏆 Open Source Projects on GitHub---
+🏆 Open Source Projects on GitHub
 
 # 📚 Currently Learning
 
