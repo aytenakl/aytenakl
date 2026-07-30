@@ -188,8 +188,7 @@ Concepts:
 - Line Sensor Project
 
 ## 🏆 Achievements
-🏆Built multiple hands-on projects in Embedded Systems, Robotics & Web Development
-
+🏆Built 10+ projects across Embedded Systems, Robotics, and Web Development
 🏆 Co-Founder of Due Two
 
 🏆 Developed Business Websites
