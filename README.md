@@ -189,6 +189,7 @@ Concepts:
 
 ## 🏆 Achievements
 🏆Built 10+ projects across Embedded Systems, Robotics, and Web Development
+
 🏆 Co-Founder of Due Two
 
 🏆 Developed Business Websites
