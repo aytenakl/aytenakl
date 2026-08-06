@@ -7,8 +7,8 @@ Computer Science & Artificial Intelligence Student
 </h3>
 
 <p align="center">
-AI Engineer in Progress | Embedded Systems Developer | Software Developer | Co-Founder @ Due Two</p>
-
+Aspiring AI Engineer | Machine Learning & Computer Vision Enthusiast | Embedded Systems & Robotics Developer | Co-Founder @ Due Two
+</p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3BB9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Real+World+Projects+🚀;Artificial+Intelligence;Embedded+Systems;Software+Engineering;Web+Development;Co-Founder+of+Due+Two" />
 </p>
@@ -43,21 +43,21 @@ AI Engineer in Progress | Embedded Systems Developer | Software Developer | Co-F
 
 💙 Passionate about:
 
-- 🤖 Artificial Intelligence
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision
 - ⚙️ Embedded Systems & Robotics
 - 💻 Software Engineering
-- 🌐 Web Development
-- 
+- 🌐 Web Development- 
 🚀 Co-Founder & Developer at **Due Two**, a technology startup focused on Artificial Intelligence, Robotics, Embedded Systems, Software Engineering, and Web Development. ✨ I enjoy turning ideas into real-world projects and improving my skills through hands-on development.
 
 # 🔥 Current Focus
 
 - 🐍 Improving Python & AI Development Skills
-- 🧠 Building Machine Learning Projects
-- 🤖 Exploring Robotics & Embedded Systems
+- 🧠 Building Machine Learning & Computer Vision Projects
+- 🤖 Exploring Robotics & Embedded Systems Applications
 - 📚 Strengthening Data Structures & Algorithms
-- 🚀 Developing Real-World Technology Solutions
-## 🎯 Open to Opportunities
+- 🚀 Developing Real-World AI & Technology Solutions
+- ## 🎯 Open to Opportunities
 
 - 🤖 AI & Machine Learning Internships
 - 💻 Software Development Internships
@@ -72,8 +72,7 @@ AI Engineer in Progress | Embedded Systems Developer | Software Developer | Co-F
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,arduino,git,github,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,arduino,git,github,vscode,tensorflow,opencv"/>
 </p>
 
 
@@ -113,7 +112,24 @@ C++ • Arduino • Stepper Motors • Embedded Systems
 🔗 GitHub Repository:
 
 https://github.com/aytenakl/Automated-Pick-and-Place-Robotic-Arm
+## 👁️ Real-Time Image Zoom Magnification using OpenCV
 
+A computer vision project that implements real-time image magnification using OpenCV techniques.
+
+The project demonstrates:
+
+- Computer Vision
+- Image Processing
+- Real-Time Video Processing
+- Python Programming
+
+Built using:
+
+Python • OpenCV
+
+🔗 GitHub Repository:
+
+https://github.com/aytenakl/Real-Time-Image-Zoom-Magnification-using-OpenCV
 
 
 ## 🌐 Triple A Events Website
@@ -136,10 +152,16 @@ https://aytenakl.github.io/Triple-A-Events-Website/
 
 ---
 
-
 ## 🥊 JOPA Premium Mouth Guards Website
 
-A modern responsive website developed for **JOPA**, with clean UI design and smooth user experience.
+A professional responsive website developed for **JOPA** with a focus on clean UI design, user experience, and modern web development practices.
+
+The project demonstrates:
+
+- Front-End Development
+- Responsive Web Design
+- User Interface Design
+- Real-World Business Website Development
 
 Built using:
 
@@ -148,37 +170,35 @@ HTML • CSS • JavaScript
 🔗 Live Demo:
 
 https://jopadental.com/
-
-
-
 ## 🚀 Due Two
 
-Technology startup focused on:
+**Co-Founder & Developer at Due Two**, a technology startup focused on building innovative solutions in:
 
-🤖 Artificial Intelligence  
-⚙️ Robotics & Embedded Systems  
-💻 Software Engineering  
-🌐 Web Development  
+- 🤖 Artificial Intelligence
+- ⚙️ Robotics & Embedded Systems
+- 💻 Software Engineering
+- 🌐 Web Development
 
+Through Due Two, I work on transforming ideas into practical technology solutions and developing real-world projects.
 
-🔗 Live Demo:
+🔗 Website:
 
 https://aytenakl.github.io/Due_Two/
 
-
----
-
-
 ## 🤖 Arduino Bluetooth Controlled Car
 
-A Bluetooth-controlled robot car using Arduino Uno.
+A Bluetooth-controlled robot car built using Arduino Uno, demonstrating wireless communication and embedded system control.
 
-Concepts:
+The project demonstrates:
+
 - Embedded Programming
+- Bluetooth Communication
 - Hardware Control
 - Robot Automation
 
+Built using:
 
+C++ • Arduino • Bluetooth Module
 
 
 
@@ -186,27 +206,24 @@ Concepts:
 
 - Ultrasonic Distance Sensor
 - Line Sensor Project
+# 🏆 Achievements
 
-## 🏆 Achievements
-🏆Built 10+ projects across Embedded Systems, Robotics, and Web Development
+🏆 Built 15+ practical projects across Artificial Intelligence, Computer Vision, Embedded Systems, Robotics, and Web Development
 
-🏆 Co-Founder of Due Two
+🏆 Co-Founder & Developer at Due Two, a technology startup focused on AI, Robotics, Embedded Systems, and Software Solutions
 
-🏆 Developed Business Websites
+🏆 Developed real-world business websites for clients and organizations
 
 🏆 Completed Arduino Programming Training with Excellent Grade
 
-🏆 Open Source Projects on GitHub
-
+🏆 Maintained active open-source projects on GitHub 
 # 📚 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- Data Structures & Algorithms
-- Advanced Python
-- Computer Vision
-
-
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision & Image Processing
+- 🐍 Advanced Python for AI Development
+- 📚 Data Structures & Algorithms
+- ⚙️ Robotics & Embedded Systems Applications
 
 # 📈 Activity Graph
 
@@ -222,38 +239,30 @@ Concepts:
 
 # 🎯 2026 Roadmap
 
+✅ Strengthen Python & AI Development Skills
 
-✅ Strengthen Python Skills
-
-✅ Build AI Projects
+✅ Build AI & Computer Vision Projects
 
 🟡 Improve Data Structures & Algorithms
 
-🟡 Build Machine Learning Projects
+🟡 Develop Machine Learning Projects
 
-🟡 Explore Computer Vision
+🟡 Explore Advanced Computer Vision Techniques
 
-🟡 Contribute to Open Source
+🟡 Contribute to Open Source Projects
 
-🚀 Grow Due Two
-
-
+🚀 Grow Due Two & Build Real-World Technology Solutions
 ---
-
 # 🌍 Connect With Me
 
-
 💼 LinkedIn  
-https://www.linkedin.com/in/ayten-akl-3a1b58377/
-
+[Ayten Ehab Akl](https://www.linkedin.com/in/ayten-akl-3a1b58377/)
 
 📧 Email  
-aytenakl912@gmail.com
-
+[aytenakl912@gmail.com](mailto:aytenakl912@gmail.com)
 
 🌐 Due Two  
-https://aytenakl.github.io/Due_Two/
-
+[Due Two Website](https://aytenakl.github.io/Due_Two/)
 
 <p align="center">
 
