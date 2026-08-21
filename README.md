@@ -91,6 +91,29 @@ Aspiring AI Engineer | Machine Learning & Computer Vision Enthusiast | Embedded 
 ---
 
 # 🌟 Featured Projects
+## 🚗 HandDrive — Gesture-Controlled Robotic Car
+
+A real-time robotic car controlled using **hand gestures** through Computer Vision.
+
+The project demonstrates the integration of:
+
+* Computer Vision
+* Hand Gesture Recognition
+* Robotics
+* Embedded Systems
+* Real-Time Processing
+* Serial Communication
+
+Built using:
+
+**Python • OpenCV • MediaPipe • Arduino • L298N • PySerial**
+
+The system detects hand movements through a webcam, converts them into movement commands, and sends them to an Arduino to control the robotic car.
+
+🔗 GitHub Repository:
+
+https://github.com/aytenakl/Hand-Drive-
+
 ## 🤖 Automated Pick-and-Place Robotic Arm
 
 
