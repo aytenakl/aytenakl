@@ -91,6 +91,22 @@ Aspiring AI Engineer | Machine Learning & Computer Vision Enthusiast | Embedded 
 ---
 
 # 🌟 Featured Projects
+## 🤖 HandControlled Robotic Arm
+
+A real-time robotic arm controlled using **hand gestures and Computer Vision**.
+
+The project integrates **hand tracking with physical robotics**, allowing hand movements detected through a webcam to control a robotic arm in real time.
+
+**Key Technologies:**  
+Python • OpenCV • MediaPipe • Arduino • Servo Motors • PySerial
+
+**Key Areas:**  
+Computer Vision • Hand Gesture Recognition • Robotics • Embedded Systems • Real-Time Processing
+
+🔗 GitHub Repository:  
+https://github.com/aytenakl/HandControlled-Robotic-Arm
+
+ 
 ## 🚗 HandDrive — Gesture-Controlled Robotic Car
 
 A real-time robotic car controlled using **hand gestures** through Computer Vision.
@@ -154,25 +170,6 @@ Python • OpenCV
 
 https://github.com/aytenakl/Real-Time-Image-Zoom-Magnification-using-OpenCV
 
-
-## 🌐 Triple A Events Website
-
-Professional business website developed for **Triple A Events & Exhibition Management**.
-
-Features:
-- Responsive Design
-- Modern UI
-- Business Website Development
-
-Built using:
-
-HTML • CSS • JavaScript
-
-🔗 Live Demo:
-
-https://aytenakl.github.io/Triple-A-Events-Website/
-
-
 ---
 
 ## 🥊 JOPA Premium Mouth Guards Website
@@ -207,23 +204,6 @@ Through Due Two, I work on transforming ideas into practical technology solution
 🔗 Website:
 
 https://aytenakl.github.io/Due_Two/
-
-## 🤖 Arduino Bluetooth Controlled Car
-
-A Bluetooth-controlled robot car built using Arduino Uno, demonstrating wireless communication and embedded system control.
-
-The project demonstrates:
-
-- Embedded Programming
-- Bluetooth Communication
-- Hardware Control
-- Robot Automation
-
-Built using:
-
-C++ • Arduino • Bluetooth Module
-
-
 
 ## 📡 Embedded Systems Projects
 
