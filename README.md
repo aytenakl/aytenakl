@@ -1,31 +1,27 @@
 <div align="center">
 
-<h1 align="center">Hi 👋, I'm Ayten Ehab Akl</h1>
+# 👋 Hi, I'm Ayten Ehab Akl
 
-<h3 align="center">
-Computer Science & Artificial Intelligence Student
-</h3>
+### Computer Science & Artificial Intelligence Student
+
+**Aspiring AI Engineer | Machine Learning & Computer Vision Enthusiast | Embedded Systems & Robotics Developer | Co-Founder @ Due Two**
 
 <p align="center">
-Aspiring AI Engineer | Machine Learning & Computer Vision Enthusiast | Embedded Systems & Robotics Developer | Co-Founder @ Due Two
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3BB9FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Building+Real-World+Projects+🚀;Artificial+Intelligence;Computer+Vision;Embedded+Systems;Robotics;Software+Engineering;Web+Development;Co-Founder+of+Due+Two" />
 </p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3BB9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Real+World+Projects+🚀;Artificial+Intelligence;Embedded+Systems;Software+Engineering;Web+Development;Co-Founder+of+Due+Two" />
-</p>
-
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ayten-akl-3a1b58377/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:aytenakl912@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://aytenakl.github.io/Due_Two/">
-<img src="https://img.shields.io/badge/Due%20Two-5B5FEF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Due%20Two-5B5FEF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=aytenakl&label=Profile%20Views&color=4C6EF5&style=for-the-badge"/>
@@ -33,7 +29,6 @@ Aspiring AI Engineer | Machine Learning & Computer Vision Enthusiast | Embedded 
 </p>
 
 </div>
-
 
 ---
 
@@ -47,8 +42,13 @@ Aspiring AI Engineer | Machine Learning & Computer Vision Enthusiast | Embedded 
 - 👁️ Computer Vision
 - ⚙️ Embedded Systems & Robotics
 - 💻 Software Engineering
-- 🌐 Web Development- 
-🚀 Co-Founder & Developer at **Due Two**, a technology startup focused on Artificial Intelligence, Robotics, Embedded Systems, Software Engineering, and Web Development. ✨ I enjoy turning ideas into real-world projects and improving my skills through hands-on development.
+- 🌐 Web Development
+
+🚀 **Co-Founder & Developer at Due Two**, a technology startup focused on Artificial Intelligence, Robotics, Embedded Systems, Software Engineering, and Web Development.
+
+✨ I enjoy turning ideas into real-world projects and continuously improving my technical skills through hands-on development.
+
+---
 
 # 🔥 Current Focus
 
@@ -57,7 +57,10 @@ Aspiring AI Engineer | Machine Learning & Computer Vision Enthusiast | Embedded 
 - 🤖 Exploring Robotics & Embedded Systems Applications
 - 📚 Strengthening Data Structures & Algorithms
 - 🚀 Developing Real-World AI & Technology Solutions
-- ## 🎯 Open to Opportunities
+
+---
+
+# 🎯 Open to Opportunities
 
 - 🤖 AI & Machine Learning Internships
 - 💻 Software Development Internships
@@ -69,12 +72,11 @@ Aspiring AI Engineer | Machine Learning & Computer Vision Enthusiast | Embedded 
 
 # 🛠️ Tech Stack
 
-
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,arduino,git,github,vscode,tensorflow,opencv"/>
-</p>
 
+</p>
 
 <p align="center">
 
@@ -87,10 +89,10 @@ Aspiring AI Engineer | Machine Learning & Computer Vision Enthusiast | Embedded 
 
 </p>
 
-
 ---
 
 # 🌟 Featured Projects
+
 ## 🤖 HandControlled Robotic Arm
 
 A real-time robotic arm controlled using **hand gestures and Computer Vision**.
@@ -103,122 +105,115 @@ Python • OpenCV • MediaPipe • Arduino • Servo Motors • PySerial
 **Key Areas:**  
 Computer Vision • Hand Gesture Recognition • Robotics • Embedded Systems • Real-Time Processing
 
-🔗 GitHub Repository:  
+🔗 **GitHub Repository:**  
 https://github.com/aytenakl/HandControlled-Robotic-Arm
-
- 
-## 🚗 HandDrive — Gesture-Controlled Robotic Car
-
-A real-time robotic car controlled using **hand gestures** through Computer Vision.
-
-The project demonstrates the integration of:
-
-* Computer Vision
-* Hand Gesture Recognition
-* Robotics
-* Embedded Systems
-* Real-Time Processing
-* Serial Communication
-
-Built using:
-
-**Python • OpenCV • MediaPipe • Arduino • L298N • PySerial**
-
-The system detects hand movements through a webcam, converts them into movement commands, and sends them to an Arduino to control the robotic car.
-
-🔗 GitHub Repository:
-
-https://github.com/aytenakl/Hand-Drive-
-
-## 🤖 Automated Pick-and-Place Robotic Arm
-
-
-An automated robotic arm designed to pick up an object from one position and transfer it to another position automatically.
-
-The project demonstrates hands-on experience in:
-
-* Robotics & Automation
-* Embedded Systems
-* Stepper Motor Control
-* Arduino Programming
-* C++
-* Hardware Control
-
-Built using:
-
-C++ • Arduino • Stepper Motors • Embedded Systems
-
-🔗 GitHub Repository:
-
-https://github.com/aytenakl/Automated-Pick-and-Place-Robotic-Arm
-## 👁️ Real-Time Image Zoom Magnification using OpenCV
-
-A computer vision project that implements real-time image magnification using OpenCV techniques.
-
-The project demonstrates:
-
-- Computer Vision
-- Image Processing
-- Real-Time Video Processing
-- Python Programming
-
-Built using:
-
-Python • OpenCV
-
-🔗 GitHub Repository:
-
-https://github.com/aytenakl/Real-Time-Image-Zoom-Magnification-using-OpenCV
 
 ---
 
-## 🥊 JOPA Premium Mouth Guards Website
+## 🚗 HandDrive — Gesture-Controlled Robotic Car
 
-A professional responsive website developed for **JOPA** with a focus on clean UI design, user experience, and modern web development practices.
+A real-time robotic car controlled using **hand gestures through Computer Vision**.
 
-The project demonstrates:
+The system detects hand movements using a webcam, translates them into movement commands, and sends them to an Arduino to control the robotic car.
 
-- Front-End Development
-- Responsive Web Design
-- User Interface Design
-- Real-World Business Website Development
+**Key Technologies:**  
+Python • OpenCV • MediaPipe • Arduino • L298N • PySerial
 
-Built using:
+**Key Areas:**  
+Computer Vision • Hand Gesture Recognition • Robotics • Embedded Systems • Serial Communication • Real-Time Processing
 
-HTML • CSS • JavaScript
+🔗 **GitHub Repository:**  
+https://github.com/aytenakl/HandDrive
 
-🔗 Live Demo:
+---
 
-https://jopadental.com/
+## 🦾 Automated Pick-and-Place Robotic Arm
+
+An automated robotic arm designed to **pick up an object from one position and transfer it to another position automatically**.
+
+The project demonstrates hands-on experience in robotics, automation, motor control, and embedded systems.
+
+**Key Technologies:**  
+C++ • Arduino • Stepper Motors
+
+**Key Areas:**  
+Robotics • Automation • Embedded Systems • Hardware Control • Motor Control
+
+🔗 **GitHub Repository:**  
+https://github.com/aytenakl/Automated-Pick-and-Place-Robotic-Arm
+
+---
+
+## 👁️ Real-Time Object Detection using YOLOv8
+
+A real-time **object detection system** built using YOLOv8 and Computer Vision.
+
+The project demonstrates practical experience with modern deep learning-based object detection.
+
+**Key Technologies:**  
+Python • OpenCV • YOLOv8 • Ultralytics
+
+**Key Areas:**  
+Artificial Intelligence • Computer Vision • Object Detection • Deep Learning • Real-Time Processing
+
+🔗 **GitHub Repository:**  
+https://github.com/aytenakl/Real-Time-Object-Detection-using-YOLOv8
+
+---
+
 ## 🚀 Due Two
 
-**Co-Founder & Developer at Due Two**, a technology startup focused on building innovative solutions in:
+**Co-Founder & Developer at Due Two**, a technology startup focused on building practical and innovative technology solutions.
+
+Through Due Two, we work across:
 
 - 🤖 Artificial Intelligence
 - ⚙️ Robotics & Embedded Systems
 - 💻 Software Engineering
 - 🌐 Web Development
 
-Through Due Two, I work on transforming ideas into practical technology solutions and developing real-world projects.
+Our goal is to transform ideas into practical technology solutions and develop real-world projects.
 
-🔗 Website:
-
+🔗 **Website:**  
 https://aytenakl.github.io/Due_Two/
 
-## 📡 Embedded Systems Projects
+---
 
-- Ultrasonic Distance Sensor
-- Line Sensor Project
+## 🥊 JOPA Premium Mouth Guards Website
+
+A professional responsive website developed for **JOPA Premium Mouth Guards**, with a focus on clean UI design, user experience, and modern web development practices.
+
+**Key Technologies:**  
+HTML • CSS • JavaScript
+
+**Key Areas:**  
+Front-End Development • Responsive Web Design • UI Development • Real-World Business Solutions
+
+🔗 **Live Website:**  
+https://jopadental.com/
+
+---
+
+# 📡 Embedded Systems Projects
+
+- 📏 Arduino Ultrasonic Distance Sensor
+- 📍 Arduino Line Sensor
+- 🚗 Arduino Bluetooth Controlled Car
+- 🎮 Arduino Joystick Servo & LED Control
+- 🤖 Arduino Line Follower & Obstacle Avoidance
+
+---
+
 # 🏆 Achievements
 
-🏆 Built 20+ hands-on projects across Artificial Intelligence, Computer Vision, Embedded Systems, Robotics, and Web Development.
-🏆 Co-Founder & Developer at Due Two, a technology startup focused on AI, Robotics, Embedded Systems, and Software Solutions
+- 🏆 Built **20+ hands-on projects** across Artificial Intelligence, Computer Vision, Embedded Systems, Robotics, and Web Development.
+- 🚀 **Co-Founder & Developer at Due Two**, a technology startup focused on AI, Robotics, Embedded Systems, and Software Solutions.
+- 🌐 Developed **real-world business websites** for clients and organizations.
+- 🎓 Completed **Arduino Programming Training with Excellent Grade**.
+- 💻 Maintained active open-source projects on GitHub.
 
-🏆 Developed real-world business websites for clients and organizations
+---
 
-🏆 Completed Arduino Programming Training with Excellent Grade
-
-🏆 Maintained active open-source projects on GitHub 
 # 📚 Currently Learning
 
 - 🤖 Artificial Intelligence & Machine Learning
@@ -227,43 +222,42 @@ https://aytenakl.github.io/Due_Two/
 - 📚 Data Structures & Algorithms
 - ⚙️ Robotics & Embedded Systems Applications
 
-## 📈 Activity Graph
+---
 
+# 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aytenakl&theme=github-compact&hide_border=true" alt="Ayten's Activity Graph" />
-</p>---
+</p>
+
+---
 
 # 🎯 2026 Roadmap
 
-✅ Strengthen Python & AI Development Skills
+- ✅ Strengthen Python & AI Development Skills
+- ✅ Build AI & Computer Vision Projects
+- 🟡 Improve Data Structures & Algorithms
+- 🟡 Develop Machine Learning Projects
+- 🟡 Explore Advanced Computer Vision Techniques
+- 🟡 Contribute to Open Source Projects
+- 🚀 Grow Due Two & Build Real-World Technology Solutions
 
-✅ Build AI & Computer Vision Projects
-
-🟡 Improve Data Structures & Algorithms
-
-🟡 Develop Machine Learning Projects
-
-🟡 Explore Advanced Computer Vision Techniques
-
-🟡 Contribute to Open Source Projects
-
-🚀 Grow Due Two & Build Real-World Technology Solutions
 ---
+
 # 🌍 Connect With Me
 
-💼 LinkedIn  
-[Ayten Ehab Akl](https://www.linkedin.com/in/ayten-akl-3a1b58377/)
+💼 **LinkedIn**  
+https://www.linkedin.com/in/ayten-akl-3a1b58377/
 
-📧 Email  
-[aytenakl912@gmail.com](mailto:aytenakl912@gmail.com)
+📧 **Email**  
+aytenakl912@gmail.com
 
-🌐 Due Two  
-[Due Two Website](https://aytenakl.github.io/Due_Two/)
+🌐 **Due Two**  
+https://aytenakl.github.io/Due_Two/
 
 <p align="center">
 
-💙 "Innovating Today. Empowering Tomorrow."
+💙 <i>"Innovating Today. Empowering Tomorrow."</i>
 
 ⭐ Thanks for visiting my profile!
 
