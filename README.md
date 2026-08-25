@@ -206,7 +206,7 @@ https://jopadental.com/
 
 # 🏆 Achievements
 
-- 🏆 Built **20+ hands-on projects** across Artificial Intelligence, Computer Vision, Embedded Systems, Robotics, and Web Development.
+- 🏆 Built **28+ hands-on projects** across Artificial Intelligence, Computer Vision, Embedded Systems, Robotics, and Web Development.
 - 🚀 **Co-Founder & Developer at Due Two**, a technology startup focused on AI, Robotics, Embedded Systems, and Software Solutions.
 - 🌐 Developed **real-world business websites** for clients and organizations.
 - 🎓 Completed **Arduino Programming Training with Excellent Grade**.
