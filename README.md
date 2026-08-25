@@ -229,11 +229,10 @@ https://aytenakl.github.io/Due_Two/
 
 ## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aytenakl&theme=github&hide_border=true" width="95%" />
-</p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aytenakl&theme=github-compact&hide_border=true" alt="Ayten's Activity Graph" />
+</p>---
 
 # 🎯 2026 Roadmap
 
