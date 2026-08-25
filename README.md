@@ -227,15 +227,11 @@ https://aytenakl.github.io/Due_Two/
 - 📚 Data Structures & Algorithms
 - ⚙️ Robotics & Embedded Systems Applications
 
-# 📈 Activity Graph
-
+## 📈 Activity Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aytenakl&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aytenakl&theme=github&hide_border=true" width="95%" />
 </p>
-
 
 ---
 
