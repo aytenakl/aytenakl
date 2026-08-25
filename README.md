@@ -4,8 +4,11 @@
 
 ### Computer Science & Artificial Intelligence Student
 
-**Aspiring AI Engineer | Machine Learning & Computer Vision Enthusiast | Embedded Systems & Robotics Developer | Co-Founder @ Due Two**
+<p align="center">
 
+<strong>AI Engineer | Computer Vision & Robotics Developer | Embedded Systems | Co-Founder @ Due Two</strong>
+
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3BB9FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Building+Real-World+Projects+🚀;Artificial+Intelligence;Computer+Vision;Embedded+Systems;Robotics;Software+Engineering;Web+Development;Co-Founder+of+Due+Two" />
 </p>
