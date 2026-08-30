@@ -224,13 +224,7 @@ https://jopadental.com/
 - 🐍 Advanced Python for AI Development
 - 📚 Data Structures & Algorithms
 - ⚙️ Robotics & Embedded Systems Applications
-
-
-## 📈 **GitHub Activity**
-
-<p align="center">
-  <img src="https://YOUR-GRAPH.vercel.app/graph?username=aytenakl" width="100%" alt="Ayten's GitHub Activity Graph">
-</p>
+- 
 # 🎯 **2026 Roadmap**
 
 - ✅ Strengthen Python & AI Development Skills
