@@ -225,12 +225,13 @@ https://jopadental.com/
 - 📚 Data Structures & Algorithms
 - ⚙️ Robotics & Embedded Systems Applications
 
-  ## 📈 GitHub Activity
+## 📈 **GitHub Activity**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aytenakl&theme=github-compact&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aytenakl" width="100%" alt="Ayten's GitHub Activity Graph">
 </p>
-## 🎯 2026 Roadmap
+
+# 🎯 **2026 Roadmap**
 
 - ✅ Strengthen Python & AI Development Skills
 - ✅ Build AI & Computer Vision Projects
