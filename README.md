@@ -225,42 +225,10 @@ https://jopadental.com/
 - 📚 Data Structures & Algorithms
 - ⚙️ Robotics & Embedded Systems Applications
 
-## 📊 GitHub Statistics
+  ## 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aytenakl&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
-    height="180"
-    alt="Ayten's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aytenakl&hide_border=true"
-    height="180"
-    alt="Ayten's GitHub Streak"
-  />
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aytenakl&theme=github-compact&hide_border=true&area=true"
-    width="100%"
-    alt="Ayten's GitHub Activity Graph"
-  />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aytenakl&layout=compact&hide_border=true&langs_count=8"
-    alt="Ayten's Most Used Languages"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aytenakl&theme=github-compact&hide_border=true" width="100%" />
 </p>
 ## 🎯 2026 Roadmap
 
