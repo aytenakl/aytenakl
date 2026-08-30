@@ -226,9 +226,8 @@ https://jopadental.com/
 - ⚙️ Robotics & Embedded Systems Applications
 
 ## 📈 **GitHub Activity**
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aytenakl" width="100%" alt="Ayten's GitHub Activity Graph">
+  <img src="https://YOUR-GRAPH.vercel.app/graph?username=aytenakl" width="100%" alt="Ayten's GitHub Activity Graph">
 </p>
 
 # 🎯 **2026 Roadmap**
