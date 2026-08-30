@@ -226,15 +226,17 @@ https://jopadental.com/
 - ⚙️ Robotics & Embedded Systems Applications
 
 ---
-
-# 📈 Activity Graph
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aytenakl&theme=github-compact&hide_border=true" alt="Ayten's Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aytenakl&theme=github-compact&hide_border=true&area=true"
+    alt="Ayten's GitHub Activity Graph"
+    width="100%"
+  />
 </p>
 
 ---
-
 # 🎯 2026 Roadmap
 
 - ✅ Strengthen Python & AI Development Skills
